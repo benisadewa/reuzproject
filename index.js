@@ -12,10 +12,13 @@ const menu = require("./lib/menu.js");
 const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
+const cekResi = require ("./lib/cekResi.js");
+const rugaApi = require ("./lib/rugaApi.js");
+
 /////////////////
 const BotName = 'REUZ BOT V3.0'; 
 const instagram = 'instgram.com/reuz.id'; 
-const telegram = '@reuzzzz'; 
+const whatsapp = '081271699856'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
